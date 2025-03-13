@@ -1,0 +1,14 @@
+azure-storage-blob
+faiss-cpu
+langchain
+langchain-community
+langchain_openai
+langchain_aws
+langchain_experimental
+langchain_huggingface
+matplotlib
+openai
+PyQt6
+streamlit
+streamlit_chat
+tiktoken
